@@ -1,0 +1,134 @@
+Serial: raytrace
+Serial version. Elapsed time: 0.558969 seconds
+Serial version. Elapsed time: 0.553566 seconds
+Serial version. Elapsed time: 0.554734 seconds
+Serial version. Elapsed time: 0.555849 seconds
+Serial version. Elapsed time: 0.583259 seconds
+Serial version. Elapsed time: 0.610283 seconds
+Serial version. Elapsed time: 0.581055 seconds
+Serial version. Elapsed time: 0.556707 seconds
+Serial version. Elapsed time: 0.560166 seconds
+Serial version. Elapsed time: 0.557528 seconds
+Program: mpi_raytrace
+MPI: 2 processors. Elapsed time: 0.347256 seconds
+MPI: 2 processors. Elapsed time: 0.359605 seconds
+MPI: 2 processors. Elapsed time: 0.346869 seconds
+MPI: 2 processors. Elapsed time: 0.346614 seconds
+MPI: 2 processors. Elapsed time: 0.348503 seconds
+MPI: 2 processors. Elapsed time: 0.362114 seconds
+MPI: 2 processors. Elapsed time: 0.372935 seconds
+MPI: 2 processors. Elapsed time: 0.345850 seconds
+MPI: 2 processors. Elapsed time: 0.348654 seconds
+MPI: 2 processors. Elapsed time: 0.378869 seconds
+MPI: 4 processors. Elapsed time: 0.287189 seconds
+MPI: 4 processors. Elapsed time: 0.289576 seconds
+MPI: 4 processors. Elapsed time: 0.286145 seconds
+MPI: 4 processors. Elapsed time: 0.296533 seconds
+MPI: 4 processors. Elapsed time: 0.286400 seconds
+MPI: 4 processors. Elapsed time: 0.286925 seconds
+MPI: 4 processors. Elapsed time: 0.290230 seconds
+MPI: 4 processors. Elapsed time: 0.286254 seconds
+MPI: 4 processors. Elapsed time: 0.291486 seconds
+MPI: 4 processors. Elapsed time: 0.289766 seconds
+MPI: 6 processors. Elapsed time: 0.431985 seconds
+MPI: 6 processors. Elapsed time: 0.447821 seconds
+MPI: 6 processors. Elapsed time: 0.356202 seconds
+MPI: 6 processors. Elapsed time: 0.432272 seconds
+MPI: 6 processors. Elapsed time: 0.343970 seconds
+MPI: 6 processors. Elapsed time: 0.340019 seconds
+MPI: 6 processors. Elapsed time: 0.388017 seconds
+MPI: 6 processors. Elapsed time: 0.411835 seconds
+MPI: 6 processors. Elapsed time: 0.427969 seconds
+MPI: 6 processors. Elapsed time: 0.420490 seconds
+MPI: 8 processors. Elapsed time: 0.400169 seconds
+MPI: 8 processors. Elapsed time: 0.439988 seconds
+MPI: 8 processors. Elapsed time: 0.331987 seconds
+MPI: 8 processors. Elapsed time: 0.463940 seconds
+MPI: 8 processors. Elapsed time: 0.379997 seconds
+MPI: 8 processors. Elapsed time: 0.388182 seconds
+MPI: 8 processors. Elapsed time: 0.424010 seconds
+MPI: 8 processors. Elapsed time: 0.387983 seconds
+MPI: 8 processors. Elapsed time: 0.443743 seconds
+MPI: 8 processors. Elapsed time: 0.380207 seconds
+Program: pth_raytrace
+PThreads: 2 threads. Elapsed time: 0.338232 seconds
+PThreads: 2 threads. Elapsed time: 0.339774 seconds
+PThreads: 2 threads. Elapsed time: 0.346069 seconds
+PThreads: 2 threads. Elapsed time: 0.337887 seconds
+PThreads: 2 threads. Elapsed time: 0.337723 seconds
+PThreads: 2 threads. Elapsed time: 0.339200 seconds
+PThreads: 2 threads. Elapsed time: 0.337750 seconds
+PThreads: 2 threads. Elapsed time: 0.338051 seconds
+PThreads: 2 threads. Elapsed time: 0.340966 seconds
+PThreads: 2 threads. Elapsed time: 0.338090 seconds
+PThreads: 4 threads. Elapsed time: 0.284770 seconds
+PThreads: 4 threads. Elapsed time: 0.289174 seconds
+PThreads: 4 threads. Elapsed time: 0.285406 seconds
+PThreads: 4 threads. Elapsed time: 0.284904 seconds
+PThreads: 4 threads. Elapsed time: 0.287568 seconds
+PThreads: 4 threads. Elapsed time: 0.284578 seconds
+PThreads: 4 threads. Elapsed time: 0.284666 seconds
+PThreads: 4 threads. Elapsed time: 0.364702 seconds
+PThreads: 4 threads. Elapsed time: 0.349313 seconds
+PThreads: 4 threads. Elapsed time: 0.285062 seconds
+PThreads: 6 threads. Elapsed time: 0.289101 seconds
+PThreads: 6 threads. Elapsed time: 0.296611 seconds
+PThreads: 6 threads. Elapsed time: 0.291701 seconds
+PThreads: 6 threads. Elapsed time: 0.302730 seconds
+PThreads: 6 threads. Elapsed time: 0.294782 seconds
+PThreads: 6 threads. Elapsed time: 0.302868 seconds
+PThreads: 6 threads. Elapsed time: 0.294331 seconds
+PThreads: 6 threads. Elapsed time: 0.295085 seconds
+PThreads: 6 threads. Elapsed time: 0.294746 seconds
+PThreads: 6 threads. Elapsed time: 0.297054 seconds
+PThreads: 8 threads. Elapsed time: 0.289134 seconds
+PThreads: 8 threads. Elapsed time: 0.288707 seconds
+PThreads: 8 threads. Elapsed time: 0.288221 seconds
+PThreads: 8 threads. Elapsed time: 0.286790 seconds
+PThreads: 8 threads. Elapsed time: 0.291740 seconds
+PThreads: 8 threads. Elapsed time: 0.287447 seconds
+PThreads: 8 threads. Elapsed time: 0.284600 seconds
+PThreads: 8 threads. Elapsed time: 0.285602 seconds
+PThreads: 8 threads. Elapsed time: 0.291765 seconds
+PThreads: 8 threads. Elapsed time: 0.285501 seconds
+Program: omp_raytrace
+OMP: 2 threads. Elapsed time: 0.805695 seconds
+OMP: 2 threads. Elapsed time: 0.798873 seconds
+OMP: 2 threads. Elapsed time: 0.799677 seconds
+OMP: 2 threads. Elapsed time: 0.798863 seconds
+OMP: 2 threads. Elapsed time: 0.801611 seconds
+OMP: 2 threads. Elapsed time: 0.799118 seconds
+OMP: 2 threads. Elapsed time: 0.797382 seconds
+OMP: 2 threads. Elapsed time: 0.800733 seconds
+OMP: 2 threads. Elapsed time: 0.798588 seconds
+OMP: 2 threads. Elapsed time: 0.799082 seconds
+OMP: 4 threads. Elapsed time: 0.629734 seconds
+OMP: 4 threads. Elapsed time: 0.627375 seconds
+OMP: 4 threads. Elapsed time: 0.627337 seconds
+OMP: 4 threads. Elapsed time: 0.626194 seconds
+OMP: 4 threads. Elapsed time: 0.631618 seconds
+OMP: 4 threads. Elapsed time: 0.629333 seconds
+OMP: 4 threads. Elapsed time: 0.626552 seconds
+OMP: 4 threads. Elapsed time: 0.631800 seconds
+OMP: 4 threads. Elapsed time: 0.627949 seconds
+OMP: 4 threads. Elapsed time: 0.629372 seconds
+OMP: 6 threads. Elapsed time: 0.646653 seconds
+OMP: 6 threads. Elapsed time: 0.638487 seconds
+OMP: 6 threads. Elapsed time: 0.656744 seconds
+OMP: 6 threads. Elapsed time: 0.662555 seconds
+OMP: 6 threads. Elapsed time: 0.644389 seconds
+OMP: 6 threads. Elapsed time: 0.659963 seconds
+OMP: 6 threads. Elapsed time: 0.642778 seconds
+OMP: 6 threads. Elapsed time: 0.639221 seconds
+OMP: 6 threads. Elapsed time: 0.642800 seconds
+OMP: 6 threads. Elapsed time: 0.627858 seconds
+OMP: 8 threads. Elapsed time: 0.630424 seconds
+OMP: 8 threads. Elapsed time: 0.630258 seconds
+OMP: 8 threads. Elapsed time: 0.627204 seconds
+OMP: 8 threads. Elapsed time: 0.629101 seconds
+OMP: 8 threads. Elapsed time: 0.629977 seconds
+OMP: 8 threads. Elapsed time: 0.629423 seconds
+OMP: 8 threads. Elapsed time: 0.629366 seconds
+OMP: 8 threads. Elapsed time: 0.627320 seconds
+OMP: 8 threads. Elapsed time: 0.631965 seconds
+OMP: 8 threads. Elapsed time: 0.627225 seconds

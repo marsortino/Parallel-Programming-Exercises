@@ -1,0 +1,14 @@
+Average elapsed time for each subset:
+Serial version: 0.567 seconds
+MPI: 2 processors - 0.355 seconds
+MPI: 4 processors - 0.289 seconds
+MPI: 6 processors - 0.400 seconds
+MPI: 8 processors - 0.404 seconds
+PThreads: 2 threads - 0.339 seconds
+PThreads: 4 threads - 0.300 seconds
+PThreads: 6 threads - 0.295 seconds
+PThreads: 8 threads - 0.287 seconds
+OMP: 2 threads - 0.799 seconds
+OMP: 4 threads - 0.628 seconds
+OMP: 6 threads - 0.646 seconds
+OMP: 8 threads - 0.629 seconds

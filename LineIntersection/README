@@ -1,0 +1,9 @@
+Suppose to have n spheres scattered in the space.
+Given a point in the space P (e.g. (0,0,0)), for each sphere compute the segment starting from the center of the sphere and having end in P.
+For each segment compute the intersection with each sphere and the lenght of it.
+
+
+To run all the codes and make an average run the script:
+$ bash results.sh
+
+The average results will be printed in results.txt, a log of each run time is stored in log_results.txt 

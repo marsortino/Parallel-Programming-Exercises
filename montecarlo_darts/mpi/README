@@ -1,0 +1,7 @@
+Write an MPI program that uses a MonteCarlo method to estimate pi.
+Suppose to have have a square dartboard and whose sides are 2 feet in lenght.
+Suppose to have a circle inscribed there of radius 1 foot.
+Compute teh number of darts who fall in the circle and the number of total tosses. Their ratio should be equal to pi/4.
+
+Process 0 should read in the total number of tosses and broadcast it to the other processes. Use MPI_Reduce to find the global sum and have process 0 to print the result.
+

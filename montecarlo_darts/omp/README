@@ -1,0 +1,4 @@
+Suppose to toss darts randomly at a 2 x 2 feet squared cardboard. In the cardboard there is inscribed a 1 feet radius circle. Considering the darts to be throwed in a uniformed distribution, the number of darts in circle wrt the total number of tosses should be pi/4.
+
+Compute pi/4 considering a Monte Carlo method and using openMP.
+
